@@ -21,7 +21,7 @@ p {
 }
 
 body {
-    background-image: url(Images/astronot.jpg);
+    background-image: url(astronot.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
