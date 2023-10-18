@@ -21,7 +21,7 @@ p {
 }
 
 body {
-    background-image: url(https://github.com/wishalfe/webstatis5/blob/main/astronot.jpg);
+    background-image: url(Images/astronot.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
