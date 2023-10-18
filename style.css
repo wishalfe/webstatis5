@@ -1,0 +1,87 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+#judul {
+    background-color: rgb(126, 154, 206);
+    color:darkblue;
+    font-size: 25px;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 3px dashed black;
+    border-top: 3px dashed black;
+    border-left: 3px double black;
+    border-right: 3px double black;
+    margin-bottom: 50px;
+}
+
+p {
+    text-align: justify;
+}
+
+body {
+    background-image: url(https://github.com/wishalfe/webstatis5/blob/main/astronot.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0px;
+    padding: 0px;
+}
+
+.content img {
+    height: 300px;
+    width: 400px;
+    /*tengahin gambar */
+    display: block;
+    margin: 0 auto;
+    /* -------------- */
+}
+
+.content {
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 5px inset black;
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #b8d4e0;
+}
+
+.content p {
+    margin-top: 20px;
+}
+
+.isi {
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
+.isi h2 {
+    font-size: large;
+    padding-bottom: 20px;
+}
+
+.isi p {
+    margin-top: 20px;
+    padding-bottom: 20px;
+    color: black;
+}
+
+.isi img {
+    margin-top: 20px;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
+#form {
+    padding: 20px;
+    background-color: rgb(126, 154, 206);
+    color: darkblue;
+    border-top: 3px dashed black;
+    border-bottom: 3px dashed black;
+    border-left: 3px double black;
+    border-right: 3px double black;
+  }
